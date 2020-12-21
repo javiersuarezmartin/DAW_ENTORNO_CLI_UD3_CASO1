@@ -62,5 +62,5 @@ function jugar() {
             break;
     };
     // Mostar resultado
-    alert('Tu elegiste ' + jugada_elegida + ' y tu opnente ha elegido ' + jugada_cont_texto + '\n' + result);
+    alert('Tu elegiste ' + jugada_elegida + ' y tu oponente ha elegido ' + jugada_cont_texto + '\n' + result);
 };
